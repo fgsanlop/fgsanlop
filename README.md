@@ -19,7 +19,7 @@ Here are some things that I love about programming:
 
 <p align="center">
     <a href="https://github.com/fgsanlop">
-        <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgsanlop&show_icons=true&show_owner=true&line_height=27&count_private=true&title_color=66fcf1&text_color=c5c6c7&icon_color=0b0c10&bg_color=DEG,0b0c10,1f2833&layout=compact" alt="Fernando's GitHub Stats" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgsanlop&show_icons=true&show_owner=true&line_height=27&count_private=true&title_color=66fcf1&text_color=c5c6c7&icon_color=0b0c10&bg_color=DEG,0b0c10,1f2833&layout=compact" alt="Fernando's GitHub Stats" />
     </a>
 </p>
 
