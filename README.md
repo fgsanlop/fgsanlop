@@ -1,13 +1,14 @@
-# **Hello friend, hello friend...** 
+# **Hello friend, hello friend... 🤖** 
 
 
 I am Fernando Sánchez, 24 years old and just graduated from IT engineering.
 
-What I love about programming is that you can solve a problem in a thousand different ways and there will still be a way to optimize that solution.
+Here are some things that I love about programming:
 
-#
+* You can solve a problem in a thousand different ways and there will still be a way to optimize that solution.
+* You will never stop learning
 
-## **I spend my free time**
+## **I spend my free time...**
 
 * ⚽ Watching and playing football
 * 🎮 Playing videogames
@@ -15,7 +16,6 @@ What I love about programming is that you can solve a problem in a thousand diff
 * 🧠 Learning new things 
 
 #
-
 
 <p align="center">
     <a href="https://github.com/fgsanlop">
