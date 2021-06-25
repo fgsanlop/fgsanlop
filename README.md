@@ -8,6 +8,8 @@ Here are some things that I love about programming:
 * You can solve a problem in a thousand different ways and there will still be a way to optimize that solution.
 * You will never stop learning.
 
+#
+
 <p>
     <a href="https://github.com/fgsanlop">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgsanlop&show_icons=true&show_owner=true&line_height=27&count_private=true&title_color=66fcf1&text_color=c5c6c7&icon_color=0b0c10&bg_color=DEG,0b0c10,1f2833&layout=compact" alt="Fernando's GitHub Stats" />
