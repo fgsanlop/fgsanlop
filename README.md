@@ -1,7 +1,7 @@
 # **Hello friend, hello friend... 🤖** 
 
 
-I am **Fernando Sánchez**, 24 years old and just graduated from IT engineering.
+I am **Fernando Sánchez**. 24 years old. Just graduated from IT engineering.
 
 Here are some things that I love about programming:
 
