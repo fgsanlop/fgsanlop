@@ -3,7 +3,7 @@
 
 I am **Fernando Sánchez**. 24 years old. Just graduated from IT engineering.
 
-Here are some things that I love about programming:
+Here are some things I love about programming:
 
 * You can solve a problem in a thousand different ways and there will still be a way to optimize that solution.
 * You will never stop learning.
