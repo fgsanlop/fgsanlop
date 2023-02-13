@@ -1,7 +1,7 @@
 # **Hello friend, hello friend... 🤖** 
 
 
-I am **Fernando**. 24 years old. I love programming but I also like to draw and play soccer when I'm not breaking my head.
+I am **Fernando**. 24 years old. I love programming but I also like to draw and play football when I'm not breaking my head.
 
 > _“What if changing the world was just about being here, by showing up no matter how many times we get told we don’t belong.”_
 
